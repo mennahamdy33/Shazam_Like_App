@@ -1,9 +1,9 @@
 # Shazam Like App
 
 ## Team Members:
-1.Mennatallah Hamdy
-2.Fady Tadrous
-3.Rawan Sayed
+1.Mennatallah Hamdy //
+2.Fady Tadrous //
+3.Rawan Sayed //
 
 Here is the executable file:
 
